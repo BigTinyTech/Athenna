@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athenna", "Athenna\Athenna.csproj", "{4299F00D-92FE-4B28-A8E4-FD4CD5945ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athenna.Test", "Athenna.Test\Athenna.Test.csproj", "{1FCA1138-7446-4D87-9A5A-A4B501BCF617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4299F00D-92FE-4B28-A8E4-FD4CD5945ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4299F00D-92FE-4B28-A8E4-FD4CD5945ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4299F00D-92FE-4B28-A8E4-FD4CD5945ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4299F00D-92FE-4B28-A8E4-FD4CD5945ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCA1138-7446-4D87-9A5A-A4B501BCF617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCA1138-7446-4D87-9A5A-A4B501BCF617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCA1138-7446-4D87-9A5A-A4B501BCF617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCA1138-7446-4D87-9A5A-A4B501BCF617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B6E7CA5-083E-4B45-A85A-09E1C4A91832}
+	EndGlobalSection
+EndGlobal
